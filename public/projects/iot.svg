@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" fill="none">
+<!-- Provisional hardware study, not a deployed railway system. -->
+<defs><pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#697158" opacity=".35"/></pattern></defs>
+<path fill="#d9dac5" d="M0 0h1000v760H0z"/><path fill="url(#dots)" d="M0 0h1000v760H0z"/>
+<g stroke="#858c70" stroke-width="2"><path d="M140 233h200v117m334 3h151v208H610M220 570h154V447M504 229V112h246"/><path d="M141 257h174v119m384 0h103v160H636" opacity=".5"/></g>
+<path d="m316 312 196-105 211 104-194 108Z" fill="#737e60"/><path d="m316 312 213 107v150L316 460Z" fill="#414f3c"/><path d="m529 419 194-108v147L529 569Z" fill="#59684b"/>
+<path d="m357 314 154-82 166 81-150 83Z" fill="#9caa7e"/>
+<path d="m428 316 84-43 87 43-84 45Z" fill="#323f34"/><path d="m444 316 69-35 69 35-68 35Z" fill="#d7c99b"/>
+<g stroke="#e8dfbc" stroke-width="4"><path d="m463 298 48 22 42-23M447 307l63 30 58-31"/></g>
+<g fill="#a9b691"><circle cx="352" cy="370" r="4"/><circle cx="373" cy="381" r="4"/><circle cx="394" cy="392" r="4"/></g>
+<g fill="#61754f" stroke="#dce1c9" stroke-width="5"><circle cx="141" cy="233" r="16"/><circle cx="220" cy="570" r="16"/><circle cx="825" cy="561" r="16"/><circle cx="750" cy="112" r="16"/></g>
+<g stroke="#7d8a65"><circle cx="141" cy="233" r="31"/><circle cx="825" cy="561" r="31"/></g>
+</svg>

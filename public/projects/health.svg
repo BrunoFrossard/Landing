@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" fill="none">
+<!-- Provisional interface composition. No actual patient data or clinical results. -->
+<path fill="#ddcfc8" d="M0 0h1000v760H0z"/><circle cx="825" cy="142" r="235" fill="#e9ded4"/>
+<rect x="239" y="122" width="560" height="524" rx="8" fill="#ab958b" opacity=".18" transform="rotate(-5 519 384)"/>
+<rect x="210" y="105" width="560" height="524" rx="8" fill="#f4efe6"/>
+<path d="M210 184h560M356 184v445" stroke="#d9cfc2"/>
+<g stroke="#856357" stroke-width="3"><path d="M243 144h34m-17-17v34"/><path d="M303 140h127M303 154h65"/></g>
+<g fill="#bba79a"><rect x="241" y="228" width="80" height="5"/><rect x="241" y="265" width="63" height="5"/><rect x="241" y="303" width="68" height="5"/></g>
+<rect x="387" y="214" width="349" height="79" rx="3" fill="#e5e7dc"/>
+<circle cx="425" cy="253" r="18" fill="#b8c3ae"/><path d="m416 253 7 6 13-14" stroke="#4c6450" stroke-width="2"/>
+<path d="M461 243h134M461 260h96" stroke="#879580" stroke-width="5"/>
+<path d="M410 330v230" stroke="#c7b6a6" stroke-dasharray="4 7"/>
+<g fill="#b88871"><circle cx="410" cy="342" r="8"/><circle cx="410" cy="437" r="8"/><circle cx="410" cy="532" r="8"/></g>
+<g fill="#e9e1d6"><rect x="442" y="317" width="289" height="66" rx="3"/><rect x="442" y="412" width="289" height="66" rx="3"/><rect x="442" y="507" width="289" height="66" rx="3"/></g>
+<g stroke="#b49b8c" stroke-width="5"><path d="M465 339h131m-131 19h219M465 435h162m-162 19h218M465 530h146m-146 19h197"/></g>
+<circle cx="753" cy="563" r="58" fill="#856357"/><path d="M729 563h48m-24-24v48" stroke="#f6eee0" stroke-width="3"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" fill="none">
+<!-- Provisional topographic concept. Not real geographic or risk data. -->
+<defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#dce3d5"/><stop offset="1" stop-color="#abbcaf"/></linearGradient></defs>
+<path fill="url(#g)" d="M0 0h1000v760H0z"/>
+<g stroke="#748c79" stroke-width="1.4" opacity=".65">
+<path d="M-50 520C100 170 235 690 444 420S720 120 1060 170"/><path d="M-50 490C100 140 235 660 444 390S720 90 1060 140"/><path d="M-50 460C100 110 235 630 444 360S720 60 1060 110"/><path d="M-50 430C100 80 235 600 444 330S720 30 1060 80"/><path d="M-50 400C100 50 235 570 444 300S720 0 1060 50"/><path d="M-50 370C100 20 235 540 444 270S720-30 1060 20"/><path d="M-50 550C100 200 235 720 444 450S720 150 1060 200"/><path d="M-50 580C100 230 235 750 444 480S720 180 1060 230"/><path d="M-50 610C100 260 235 780 444 510S720 210 1060 260"/><path d="M-50 640C100 290 235 810 444 540S720 240 1060 290"/>
+</g>
+<path d="M630-20C740 140 365 245 516 420S790 535 650 800" stroke="#729790" stroke-width="75"/>
+<path d="M630-20C740 140 365 245 516 420S790 535 650 800" stroke="#b4d0c6" stroke-width="43"/>
+<g stroke="#3a6156"><circle cx="526" cy="350" r="87" stroke-dasharray="3 8"/><circle cx="526" cy="350" r="56"/><path d="M526 245v210M420 350h212" opacity=".5"/></g>
+<circle cx="526" cy="350" r="10" fill="#36574d"/><circle cx="526" cy="350" r="4" fill="#ececdf"/>
+<path d="m542 332 78-83h138" stroke="#36574d"/><rect x="681" y="214" width="165" height="70" rx="3" fill="#eff1e7"/><path d="M701 237h89M701 251h52M812 246l7-15 7 15" stroke="#52796b" stroke-width="3"/>
+<g fill="#496e61"><circle cx="314" cy="496" r="5"/><circle cx="724" cy="454" r="5"/><circle cx="404" cy="222" r="5"/></g>
+<rect x="83" y="80" width="90" height="6" fill="#36574d"/><rect x="83" y="100" width="51" height="3" fill="#748c79"/>
+</svg>

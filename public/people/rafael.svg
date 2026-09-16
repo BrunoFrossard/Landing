@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 540" fill="none">
+<!-- Intentional monogram placeholder. Replace with Rafael's authorized portrait. -->
+<path fill="#aeb9aa" d="M0 0h800v540H0z"/><path d="M0 0h800v174L0 418Z" fill="#919f8c"/><path d="M0 0h800v38L0 281Z" fill="#73826e"/>
+<rect x="217" y="96" width="362" height="362" rx="181" stroke="#41563c" stroke-opacity=".3"/><rect x="239" y="118" width="318" height="318" rx="159" stroke="#41563c" stroke-opacity=".2"/>
+<g stroke="#edf0e2" stroke-width="16" stroke-linecap="square" stroke-linejoin="round"><path d="M267 353V192h54c69 0 69 89 0 89h-54m54 0 63 72"/><path d="M542 213c-21-26-89-37-108 18-10 25-10 60 0 87 19 52 86 45 108 18"/></g>
+<path d="M62 67h28m-14-14v28M710 473h28m-14-14v28" stroke="#34462e" stroke-opacity=".6"/>
+</svg>

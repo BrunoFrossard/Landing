@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 540" fill="none">
+<!-- Intentional monogram placeholder. Replace with Bruno's authorized portrait. -->
+<path fill="#d8c3ac" d="M0 0h800v540H0z"/><path d="M510 0h290v540H247Z" fill="#c0a084"/><path d="M616 0h184v540H417Z" fill="#ae8368"/>
+<circle cx="397" cy="276" r="173" stroke="#8c6147" stroke-opacity=".35"/><circle cx="397" cy="276" r="194" stroke="#8c6147" stroke-opacity=".2"/>
+<g stroke="#f0e7d6" stroke-width="16" stroke-linecap="square" stroke-linejoin="round"><path d="M273 192v164h56c72 0 75-85 5-85h-61m0-79h53c65 0 65 79 8 79"/><path d="M450 356V192h94m-94 79h75"/></g>
+<path d="M62 67h28m-14-14v28M710 473h28m-14-14v28" stroke="#775c44" stroke-opacity=".6"/>
+</svg>

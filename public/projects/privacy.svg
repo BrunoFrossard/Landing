@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" fill="none">
+<!-- Provisional game-world study; not a screenshot of the academic project. -->
+<path fill="#363c52" d="M0 0h1000v760H0z"/><path d="m0 521 1000-60v299H0Z" fill="#42475d"/>
+<g stroke="#9497b0" opacity=".2"><path d="m0 643 1000-59M190 510 59 760m331-262-21 262m231-275 100 275m141-289 159 180"/></g>
+<path d="m172 518 46-301h165l-38 301Z" fill="#9394ac"/><path d="m192 518 37-281h131l-34 281Z" fill="#262c40"/><path d="m229 237 92 50 5 231-134 44Z" fill="#787c99"/><circle cx="301" cy="409" r="4" fill="#f1e4b8"/>
+<path d="M423 498V164h182v334Z" fill="#d7d0b5"/><path d="M444 498V186h140v312Z" fill="#252a3b"/><path d="m444 186 115 24v310l-115-22Z" fill="#e4c38c"/><path d="M549 353v30" stroke="#66573d" stroke-width="4"/>
+<path d="m692 478-27-258h155l41 258Z" fill="#929d94"/><path d="m710 478-23-239h115l39 239Z" fill="#242e36"/><path d="m687 239 87 33 5 231-69-25Z" fill="#5d7e75"/><circle cx="762" cy="386" r="4" fill="#d1dfc4"/>
+<path d="m444 498 115 22 127 180-295 21Z" fill="#ead9ac" opacity=".13"/>
+<circle cx="503" cy="581" r="24" fill="#d9c49f"/><path d="M486 602h34l11 56h-56Z" fill="#c08161"/><path d="M485 658v24m35-24v24" stroke="#e0d5bc" stroke-width="8"/>
+<path d="M491 95h28m-14-14v28" stroke="#dfc494"/>
+</svg>
