@@ -23,8 +23,33 @@ const manrope = localFont({
 });
 
 export const metadata: Metadata = {
+  // Sem base absoluta, og:image sai relativo e nenhum app de mensagem resolve a imagem.
+  metadataBase: new URL(site.meta.url),
   title: site.meta.title,
   description: site.meta.description,
+  openGraph: {
+    type: "website",
+    url: "/",
+    siteName: site.name,
+    title: site.meta.title,
+    description: site.meta.description,
+    // Open Graph usa separador "_", diferente do atributo lang do HTML.
+    locale: site.meta.locale.replace("-", "_"),
+    images: [
+      {
+        url: site.meta.ogImage.src,
+        width: site.meta.ogImage.width,
+        height: site.meta.ogImage.height,
+        alt: site.meta.ogImage.alt,
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: site.meta.title,
+    description: site.meta.description,
+    images: [site.meta.ogImage.src],
+  },
   // Página conceitual privada: nunca indexar.
   robots: {
     index: false,

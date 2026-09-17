@@ -17,6 +17,15 @@ export const site = {
     description:
       "Conceito independente para a reabertura do Cabaret da Cecília na Rua Nestor Pestana, 189, em São Paulo.",
     locale: "pt-BR",
+    /** Base absoluta dos previews (WhatsApp, Instagram, X). Atualize ao migrar para domínio próprio. */
+    url: "https://landing-ten-chi-80.vercel.app",
+    /** Imagem do card de compartilhamento: o mesmo quadro da cortina entreaberta usado pelo vídeo. */
+    ogImage: {
+      src: "/images/cabaret-opening-still.jpg",
+      width: 1920,
+      height: 1080,
+      alt: "Cortinas de veludo vermelho entreabertas sobre uma faixa de luz dourada.",
+    },
   },
 
   opening: {
